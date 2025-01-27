@@ -144,7 +144,7 @@ p.note { display: none; }
 <h2><span class="yellow">お腹が大きくなり始めた猫ちゃん</span></h2>
 <a href="20250126_006.jpg" target="_blank"><img src="20250126_006.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">朝焼けグラデーション、月も映っていますが見えませんね？</span></h2>
+<h2><span class="yellow">朝焼けグラデーション、月も映っていますが見えませんね？<br>画面中央、ちょっと右です</span></h2>
 <a href="20250126_007.jpg" target="_blank"><img src="20250126_007.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">お昼はいつもの親戚にご馳走になりました</span></h2>
