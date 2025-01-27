@@ -196,6 +196,8 @@ p.note { display: none; }
 <h2><span class="yellow">一台づつ賃金直接払い、このドライバーは女性でした</span></h2>
 <a href="20250126_034.jpg" target="_blank"><img src="20250126_034.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250126_035.jpg" target="_blank"><img src="20250126_035.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">洗車してたお兄ちゃんはトラックの誘導係に</span></h2>
 <a href="20250126_036.jpg" target="_blank"><img src="20250126_036.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">こちらの離れでベランダをお借りして、しばし涼ませていただきました</span></h2>
