@@ -128,13 +128,13 @@ p.note { display: none; }
 <!--ここから下が、本体部分-->
 
 
-<h2><span class="yellow">夜明け前にさそり座に細い月を見つけます 26日 朝5:37</span></h2>
+<h2><span class="yellow">夜明け前にさそり座と細い月を見つけます 26日 朝5:37</span></h2>
 <a href="20250126_001.jpg" target="_blank"><img src="20250126_001.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">さそり座のトレースとお月さま</span></h2>
 <a href="20250126_002.jpg" target="_blank"><img src="20250126_002.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">夜明け後はもう見つけるのが難しい細さです</span></h2>
+<h2><span class="yellow">夜明け後はもう見つけるのが難しい細さでした</span></h2>
 <a href="20250126_003.jpg" target="_blank"><img src="20250126_003.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250126_004.jpg" target="_blank"><img src="20250126_004.jpg" alt="サンプル画像" width="900" /></a>
 
