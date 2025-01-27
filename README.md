@@ -203,10 +203,10 @@ p.note { display: none; }
 <h2><span class="yellow">こちらの離れでベランダをお借りして、しばし涼ませていただきました</span></h2>
 <a href="20250126_037.jpg" target="_blank"><img src="20250126_037.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">お昼の後に市場の横の個人商店に立ち寄ると、市価の半額で物干しキャリア</span></h2>
+<h2><span class="yellow">お昼の後に市場の横の個人商店に立ち寄ると、市価の半額で物干しキャリア<br>笑顔になると前歯がほぼ無いおじいちゃんでした</span></h2>
 <a href="20250126_038.jpg" target="_blank"><img src="20250126_038.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">この方、バイクのパンク修理してました</span></h2>
+<h2><span class="yellow">この方、バイクのパンク修理をしてました</span></h2>
 <a href="20250126_039.jpg" target="_blank"><img src="20250126_039.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">物干しキャリア、車に入らないというと、バラしてあげるからとのこと<br>念の為ネジ部の写真撮影</span></h2>
@@ -222,7 +222,7 @@ p.note { display: none; }
 <a href="20250126_045.jpg" target="_blank"><img src="20250126_045.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250126_046.jpg" target="_blank"><img src="20250126_046.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">手作り感が伝わるちりとりも80バーツで購入</span></h2>
+<h2><span class="yellow">手作り感が伝わるちりとりも80バーツで購入、既製品の約1/3の価格</span></h2>
 <a href="20250126_047.jpg" target="_blank"><img src="20250126_047.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">買い物が終わったので、シャンプーで預けていた猫を引き取りに</span></h2>
