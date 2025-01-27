@@ -239,7 +239,7 @@ p.note { display: none; }
 <h2><span class="yellow">向かい側はオシャレなレストランでした</span></h2>
 <a href="20250126_053.jpg" target="_blank"><img src="20250126_053.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">猫ちゃんはシャンプーしてスッキリでくつろぎモードに/span></h2>
+<h2><span class="yellow">猫ちゃんはシャンプーしてスッキリでくつろぎモードに</span></h2>
 <a href="20250126_061.jpg" target="_blank"><img src="20250126_061.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">今日も綺麗な日没が始まりました</span></h2>
