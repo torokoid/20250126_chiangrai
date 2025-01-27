@@ -120,7 +120,7 @@ p.note { display: none; }
 <p align="right"><marquee direction="left" scrollamount="20" width="30%">(^_^)/~alis</marquee></p>
 
 <!--流れ文字の挿入例-->
-<h1><span class="yellow"><marquee behavior="left">!!! 2025/01/26、月はかなり細いので夜明け前に見つけて、最後は夕焼けグラデーション!!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2025/01/26、月はかなり細いので夜明け前に撮影、猫ちゃんシャンプーして最後は夕焼けグラデーション!!!</marquee></span></h1>
 
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
